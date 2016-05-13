@@ -1,0 +1,59 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_drawer_width">300dp</dimen>
+
+    <dimen name="get_now_card_height">300dp</dimen>
+
+    <dimen name="nav_drawer_left_margin">24dp</dimen>
+    <dimen name="nav_drawer_right_margin">84dp</dimen>
+    <dimen name="nearby_grid_margin">12dp</dimen>
+
+    <dimen name="header_height">16dp</dimen>
+
+    <dimen name="app_detail_head_heiht">116.0dip</dimen>
+    <dimen name="app_details_icon_size">98.0dip</dimen>
+    <dimen name="app_detail_head_title_magin_top">8.0dip</dimen>
+    <dimen name="app_details_head_icon_margin">10.0dip</dimen>
+    <dimen name="app_details_head_icon_marginLeft">12.0dip</dimen>
+
+    <dimen name="fab_elevation">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_elevation_press">12dp</dimen>
+    <dimen name="fab_size">56dp</dimen>
+
+    <dimen name="statusbar_size">24dp</dimen>
+    <dimen name="list_row_padding">14.0dip</dimen>
+
+
+    <dimen name="font_10">8.0sp</dimen>
+    <dimen name="font_11">9.0sp</dimen>
+    <dimen name="font_13">11.0sp</dimen>
+    <dimen name="font_14">12.0sp</dimen>
+    <dimen name="font_15">13.0sp</dimen>
+    <dimen name="font_16">14.0sp</dimen>
+    <dimen name="font_17">15.0sp</dimen>
+    <dimen name="font_18">16.0sp</dimen>
+    <dimen name="font_19">17.0sp</dimen>
+    <dimen name="font_20">18.0sp</dimen>
+    <dimen name="font_21">19.0sp</dimen>
+    <dimen name="font_22">20.0sp</dimen>
+    <dimen name="font_23">21.0sp</dimen>
+    <dimen name="font_24">22.0sp</dimen>
+    <dimen name="font_6">4.0sp</dimen>
+    <dimen name="font_7">5.0sp</dimen>
+    <dimen name="font_8">6.0sp</dimen>
+    <dimen name="font_9">7.0sp</dimen>
+    <dimen name="font_12">10.0sp</dimen>
+    <dimen name="keyboard_height">300dip</dimen>
+    <dimen name="item_settings_bottommargin">8dp</dimen>
+
+
+
+
+
+
+
+
+</resources>
